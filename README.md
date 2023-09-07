@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Alberto Matanzas González
-- 👀 I’m interested in all web development focused in .NET Framework
+- 👀 I’m interested in development focused in .NET Framework
 - 📫 Contact info: luismatanzasg@gmail.com
 
 <!---
