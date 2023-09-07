@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Luis Alberto Matanzas González
-- 👀 I’m interested in all web development focused in the new JS Frameworks 
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in all web development focused in .NET Framework
 - 📫 Contact info: luismatanzasg@gmail.com
 
 <!---
